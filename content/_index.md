@@ -3,7 +3,7 @@ title: Home
 ---
 # Your Friendly Neighbourhood 🦸
 
-Welcome to my website. I’m Aman Kumar Gupta, a final student at IIIT Bhubaneswar.  
+Welcome to my website. I’m Aman Kumar Gupta, a final year student at IIIT Bhubaneswar.  
 
 Here I share thoughts and learnings about technical topics such as, Kubernetes, 
 Cloud Native technologies, DevOps and Linux. I'm also very
